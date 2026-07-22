@@ -14,7 +14,7 @@ The objective was to:
 ## Repository Structure
 
 ```text
-churn-prediction/
+customer-churn-prediction/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
