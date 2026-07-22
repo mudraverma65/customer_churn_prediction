@@ -1,2 +1,2 @@
 selected_model,optimal_threshold,default_cost,optimal_cost,estimated_savings,fn_cost,fp_cost
-Logistic,0.19,5091000.0,2303200.0,2787800.0,5000,200
+Logistic,0.05,6585000.0,2302200.0,4282800.0,5000,200
