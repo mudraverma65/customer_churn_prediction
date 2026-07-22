@@ -1,0 +1,10 @@
+data/
+*.csv
+.venv/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
