@@ -1,5 +1,5 @@
 data/
-*.csv
+# *.csv
 .venv/
 .ipynb_checkpoints/
 
